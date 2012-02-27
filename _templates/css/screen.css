@@ -21,13 +21,13 @@ a:hover, a:active {text-decoration: none;}
 
 body {clear: both; width: 100%;}
 
-header, section, footer {width: 98%; margin: 0 auto;}
+header, section, footer {display: block; width: 98%; margin: 0 auto;}
 
-h1, h2, h3 {display: block; width: 220px; font-family: 'Oswald', sans-serif; color: #000; text-align: center; text-transform: uppercase; margin: 0 auto;}
+h1, h2, h3 {display: block; width: 220px; font-family: 'Oswald', sans-serif; color: #000; text-shadow: 0px 1px 1px #888; text-align: center; text-transform: uppercase; margin: 0 auto;}
 
 header {padding: 40px 0;}
 	header h1 {font-size: 20px;}
-	header h2 {font-size: 14px; color: #888;}
+	header h2 {font-size: 14px; text-shadow: none; color: #888;}
 
 section {clear: both;}
 	section h2 {border-top: 1px solid #b7b7b7; padding-top: 10px; margin-bottom: 20px;}
@@ -55,16 +55,14 @@ footer {clear: both; padding: 40px 0;}
 		section p {max-width: 460px;}
 		.project {float: left; width: 49%; margin-right: 2%;}
 		.odd {margin-right: 0;}
-			.project p {}
+			.project p {width: 90%;}
 			.project img {width: 98%; height: auto;}
 }
-
-
 
 @media only screen and (min-width: 940px)  { 
 	header, section, footer {width: 940px;}
 		.project {width: 460px; margin-right: 20px;}
-		.odd {margin-right: 0;	}
+		.odd {margin-right: 0;}
 			.project p {width: 340px;}
 			.project img {width: 450px; margin: 0 0 0 5px;}
 }
