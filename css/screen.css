@@ -55,7 +55,13 @@ footer {clear: both; padding: 20px 0;}
 			footer ul li#btn_linkedin a {background-image: url(../images/btn_linkedin.png);}
 		footer ul li#btn_flickr {margin-right: 0;}	
 			footer ul li#btn_flickr a {background-image: url(../images/btn_flickr.png);}
-			
+	footer p {
+		clear: both;
+		color: #888;
+		font-size: 11px;
+		padding-top: 20px;
+		text-align: center;
+	}
 
 @media only screen and (min-width: 600px)  { 
 	header {padding-bottom: 70px;}
