@@ -60,7 +60,7 @@ footer {clear: both; padding: 20px 0;}
 @media only screen and (min-width: 600px)  { 
 	header {padding-bottom: 70px;}
 	header, section {width: 98%;}
-		section p {max-width: 460px;}
+		section p {max-width: 440px;}
 		.project {float: left; width: 49%; margin-right: 2%;}
 		.project:nth-child(odd) {margin-right: 0;}
 			.project p {width: 90%;}
