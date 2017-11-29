@@ -1,1 +1,7 @@
 .DS_Store
+.sublime-project
+node_modules
+/decoderant.sublime-project
+/decoderant.sublime-workspace
+/yarn-error.log
+/build
