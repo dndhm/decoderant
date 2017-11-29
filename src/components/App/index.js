@@ -6,7 +6,7 @@ import Heading from '../Heading';
 import styles from './styles';
 
 const App = ({ classes }) => (
-  <Heading level={1} />
+  <Heading level={1}>Decoderant</Heading>
 );
 
 App.propTypes = {
