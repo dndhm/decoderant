@@ -14,4 +14,13 @@ describe('Heading', () => {
       });
     });
   });
+
+  describe('children', () => {
+    const childString = 'Heading string';
+    const component = mount(<Heading>{childString}</Heading>);
+
+    test('renders passed children', () => {
+      expect(component.prop('children')).toEqual(childString);
+    });
+  });
 });
