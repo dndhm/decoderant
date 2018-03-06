@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading renders correctly for given level: 1 1`] = `
+<h1
+  className="Heading-heading-0-1"
+>
+  Heading
+</h1>
+`;
+
+exports[`Heading renders correctly for given level: 2 1`] = `
+<h2
+  className="Heading-heading-0-1 Heading-h2-0-2"
+>
+  Heading
+</h2>
+`;
+
+exports[`Heading renders correctly for given level: 3 1`] = `
+<h3
+  className="Heading-heading-0-1"
+>
+  Heading
+</h3>
+`;

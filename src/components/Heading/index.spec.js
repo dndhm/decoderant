@@ -1,26 +1,16 @@
 import React from 'react';
-import { mount } from 'enzyme';
+import { create } from 'react-test-renderer';
 
 import Heading from './';
 
 describe('Heading', () => {
-  describe('level prop', () => {
-    [1,2,3].map(level => {
-      const component = mount(<Heading level={level}>Heading</Heading>);
-      const tagName = `h${level}`;
+	[1, 2, 3].forEach(level =>
+		test(`renders correctly for given level: ${level}`, () => {
+			const tree = create(
+				<Heading level={level}>Heading</Heading>
+			).toJSON();
 
-      test(`renders ${tagName} tag for ${level}`, () => {
-        expect(component.find(tagName).length).toEqual(1);
-      });
-    });
-  });
-
-  describe('children', () => {
-    const childString = 'Heading string';
-    const component = mount(<Heading>{childString}</Heading>);
-
-    test('renders passed children', () => {
-      expect(component.prop('children')).toEqual(childString);
-    });
-  });
+			expect(tree).toMatchSnapshot();
+		})
+	);
 });

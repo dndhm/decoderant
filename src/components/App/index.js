@@ -1,16 +1,9 @@
 import React from 'react';
-import PropTypes from 'prop-types';
-import injectSheet from 'react-jss';
 
 import Heading from '../Heading';
-import styles from './styles';
 
-const App = ({ classes }) => (
-  <Heading level={1}>Decoderant</Heading>
+const App = () => (
+	<Heading level={1}>Decoderant</Heading>
 );
 
-App.propTypes = {
-  classes: PropTypes.object.isRequired,
-};
-
-export default injectSheet(styles)(App);
+export default App;
