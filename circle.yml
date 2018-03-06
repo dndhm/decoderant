@@ -6,3 +6,8 @@ deployment:
     branch: master
     heroku:
       appname: decoderant
+test:
+  override:
+    - yarn test --coverage --collectCoverageFrom=src/**/*.js
+  post:
+    - mv coverage $CIRCLE_ARTIFACTS/coverage
