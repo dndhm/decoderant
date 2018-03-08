@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
+import injectStaticSheet from 'inject-static-sheet';
 
-import injectSheet from '../../lib/inject-sheet';
 import styles from './styles';
 
 const Heading = ({ children, classes, level }) => {
@@ -27,4 +27,4 @@ Heading.propTypes = {
 	level: PropTypes.oneOf([1, 2, 3]),
 };
 
-export default injectSheet(styles, 'Heading')(Heading);
+export default injectStaticSheet(styles, 'Heading')(Heading);

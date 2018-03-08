@@ -22,6 +22,7 @@
     "eslint-plugin-import": "2.8.0",
     "eslint-plugin-react": "7.4.0",
     "express": "^4.16.2",
+    "inject-static-sheet": "^1.0.0",
     "nodemon": "^1.17.1",
     "object-assign": "4.1.1",
     "promise": "8.0.1",
