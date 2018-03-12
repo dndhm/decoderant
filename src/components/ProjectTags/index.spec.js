@@ -20,5 +20,15 @@ describe('ProjectTags', () => {
 				.toJSON();
 			expect(tree).toMatchSnapshot();
 		});
+
+		tags.forEach(activeTag => {
+			test(`should render correctly with given activeTag: ${activeTag}`, () => {
+				const tree = create(
+					<ProjectTags activeTag={activeTag} tags={tags} />
+				)
+					.toJSON();
+				expect(tree).toMatchSnapshot();
+			});
+		});
 	});
 });
