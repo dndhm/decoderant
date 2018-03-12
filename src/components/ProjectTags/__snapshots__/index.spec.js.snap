@@ -1,0 +1,577 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProjectTags should render correctly for given tag: Backbone 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: CSS 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: JS 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: PHP 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: Phonegap 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: React 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: Redux 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: Responsive 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: Wordpress 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 2`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 3`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 4`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 5`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 6`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 7`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 8`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 9`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+</ul>
+`;
