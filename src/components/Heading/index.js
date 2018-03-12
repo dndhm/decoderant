@@ -9,8 +9,7 @@ const Heading = ({ children, classes, level }) => {
 	const TagName = `h${level}`;
 	const headingClasses = classNames(
 		classes.heading,
-		classes[`h${level}`
-		]);
+		classes[`h${level}`]);
 
 	return (
 		<TagName className={headingClasses}>{children}</TagName>
