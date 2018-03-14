@@ -8,7 +8,7 @@ export default (app, publicRoot) => `
 
     <link rel="shortcut icon" href="${publicRoot}favicon.ico">
     <link rel="stylesheet" href="${publicRoot}reset.css" />
-    <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond|Oswald" rel="stylesheet">
     <title>DECODERANT</title>
   </head>
   <body>
