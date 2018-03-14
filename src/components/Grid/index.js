@@ -4,7 +4,11 @@ import injectStaticSheet from 'inject-static-sheet';
 
 const styles = {
 	container: {
-		'grid-template-columns': 'repeat(auto-fit, minmax(200px, 1fr))',
+		display: 'grid',
+		'grid-template-columns': 'repeat(auto-fit, minmax(320px, 1fr))',
+		'grid-gap': '10px',
+		'max-width': '960px',
+		margin: '0 auto',
 	},
 };
 
