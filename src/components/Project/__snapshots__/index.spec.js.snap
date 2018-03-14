@@ -4,13 +4,37 @@ exports[`Project should render correctly 1`] = `
 <div
   className="Project--container"
 >
-  <h3
-    className="Project--heading"
+  <div
+    className="Project--content"
   >
-    DECODERANT
-  </h3>
-  <p>
-    This is my website.
-  </p>
+    <h3
+      className="Heading--heading Heading--h3 Heading--color-white"
+    >
+      DECODERANT
+    </h3>
+    <ul
+      className="ProjectTags--list"
+    >
+      <li
+        className="ProjectTags--listItem"
+      >
+        React
+      </li>
+      <li
+        className="ProjectTags--listItem"
+      >
+        NodeJS
+      </li>
+    </ul>
+    <div
+      className="Project--description"
+    >
+      <p
+        className="Paragraph--paragraph"
+      >
+        This is my website.
+      </p>
+    </div>
+  </div>
 </div>
 `;

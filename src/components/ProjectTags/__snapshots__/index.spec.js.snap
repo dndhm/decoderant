@@ -36,6 +36,30 @@ exports[`ProjectTags should render correctly for given tag: JS 1`] = `
 </ul>
 `;
 
+exports[`ProjectTags should render correctly for given tag: Neo4j 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly for given tag: NodeJS 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+</ul>
+`;
+
 exports[`ProjectTags should render correctly for given tag: PHP 1`] = `
 <ul
   className="ProjectTags--list"
@@ -96,6 +120,18 @@ exports[`ProjectTags should render correctly for given tag: Responsive 1`] = `
 </ul>
 `;
 
+exports[`ProjectTags should render correctly for given tag: Social media 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
 exports[`ProjectTags should render correctly for given tag: Wordpress 1`] = `
 <ul
   className="ProjectTags--list"
@@ -130,6 +166,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 1`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -156,6 +202,11 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 1`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -182,6 +233,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 2`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -208,6 +269,11 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 2`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -234,6 +300,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 3`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -260,6 +336,11 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 3`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -286,6 +367,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 4`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -312,6 +403,11 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 4`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -338,6 +434,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 5`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -364,6 +470,11 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 5`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -390,6 +501,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 6`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -416,6 +537,11 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 6`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -442,6 +568,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 7`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -468,6 +604,11 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 7`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -494,6 +635,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 8`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -520,6 +671,11 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 8`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -546,6 +702,16 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 9`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -572,6 +738,212 @@ exports[`ProjectTags should render correctly with given activeTag: Backbone 9`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Backbone 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Backbone 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Backbone 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -598,6 +970,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 1`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -624,6 +1006,11 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 1`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -650,6 +1037,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 2`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -676,6 +1073,11 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 2`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -702,6 +1104,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 3`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -728,6 +1140,11 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 3`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -754,6 +1171,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 4`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -780,6 +1207,11 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 4`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -806,6 +1238,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 5`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -832,6 +1274,11 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 5`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -858,6 +1305,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 6`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -884,6 +1341,11 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 6`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -910,6 +1372,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 7`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -936,6 +1408,11 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 7`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -962,6 +1439,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 8`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -988,6 +1475,11 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 8`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1014,6 +1506,16 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 9`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1040,6 +1542,212 @@ exports[`ProjectTags should render correctly with given activeTag: CSS 9`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: CSS 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: CSS 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: CSS 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1066,6 +1774,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 1`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1092,6 +1810,11 @@ exports[`ProjectTags should render correctly with given activeTag: JS 1`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1118,6 +1841,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 2`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1144,6 +1877,11 @@ exports[`ProjectTags should render correctly with given activeTag: JS 2`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1170,6 +1908,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 3`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1196,6 +1944,11 @@ exports[`ProjectTags should render correctly with given activeTag: JS 3`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1222,6 +1975,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 4`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1248,6 +2011,11 @@ exports[`ProjectTags should render correctly with given activeTag: JS 4`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1274,6 +2042,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 5`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1300,6 +2078,11 @@ exports[`ProjectTags should render correctly with given activeTag: JS 5`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1326,6 +2109,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 6`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1352,6 +2145,11 @@ exports[`ProjectTags should render correctly with given activeTag: JS 6`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1378,6 +2176,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 7`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1404,6 +2212,11 @@ exports[`ProjectTags should render correctly with given activeTag: JS 7`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1430,6 +2243,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 8`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1456,6 +2279,11 @@ exports[`ProjectTags should render correctly with given activeTag: JS 8`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1482,6 +2310,16 @@ exports[`ProjectTags should render correctly with given activeTag: JS 9`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1508,6 +2346,1820 @@ exports[`ProjectTags should render correctly with given activeTag: JS 9`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: JS 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: JS 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: JS 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 2`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 3`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 4`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 5`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 6`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 7`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 8`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 9`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Neo4j 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 2`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 3`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 4`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 5`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 6`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 7`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 8`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 9`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: NodeJS 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1534,6 +4186,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 1`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1560,6 +4222,11 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 1`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1586,6 +4253,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 2`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1612,6 +4289,11 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 2`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1638,6 +4320,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 3`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1664,6 +4356,11 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 3`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1690,6 +4387,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 4`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1716,6 +4423,11 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 4`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1742,6 +4454,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 5`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1768,6 +4490,11 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 5`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1794,6 +4521,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 6`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1820,6 +4557,11 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 6`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1846,6 +4588,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 7`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1872,6 +4624,11 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 7`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1898,6 +4655,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 8`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1924,6 +4691,11 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 8`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -1950,6 +4722,16 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 9`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -1976,6 +4758,212 @@ exports[`ProjectTags should render correctly with given activeTag: PHP 9`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: PHP 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: PHP 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: PHP 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2002,6 +4990,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 1`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2028,6 +5026,11 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 1`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2054,6 +5057,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 2`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2080,6 +5093,11 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 2`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2106,6 +5124,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 3`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2132,6 +5160,11 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 3`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2158,6 +5191,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 4`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2184,6 +5227,11 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 4`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2210,6 +5258,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 5`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2236,6 +5294,11 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 5`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2262,6 +5325,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 6`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2288,6 +5361,11 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 6`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2314,6 +5392,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 7`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2340,6 +5428,11 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 7`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2366,6 +5459,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 8`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2392,6 +5495,11 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 8`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2418,6 +5526,16 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 9`] 
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2444,6 +5562,212 @@ exports[`ProjectTags should render correctly with given activeTag: Phonegap 9`] 
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Phonegap 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Phonegap 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Phonegap 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2470,6 +5794,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 1`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2496,6 +5830,11 @@ exports[`ProjectTags should render correctly with given activeTag: React 1`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2522,6 +5861,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 2`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2548,6 +5897,11 @@ exports[`ProjectTags should render correctly with given activeTag: React 2`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2574,6 +5928,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 3`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2600,6 +5964,11 @@ exports[`ProjectTags should render correctly with given activeTag: React 3`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2626,6 +5995,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 4`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2652,6 +6031,11 @@ exports[`ProjectTags should render correctly with given activeTag: React 4`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2678,6 +6062,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 5`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2704,6 +6098,11 @@ exports[`ProjectTags should render correctly with given activeTag: React 5`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2730,6 +6129,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 6`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2756,6 +6165,11 @@ exports[`ProjectTags should render correctly with given activeTag: React 6`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2782,6 +6196,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 7`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2808,6 +6232,11 @@ exports[`ProjectTags should render correctly with given activeTag: React 7`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2834,6 +6263,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 8`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2860,6 +6299,11 @@ exports[`ProjectTags should render correctly with given activeTag: React 8`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2886,6 +6330,16 @@ exports[`ProjectTags should render correctly with given activeTag: React 9`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2912,6 +6366,212 @@ exports[`ProjectTags should render correctly with given activeTag: React 9`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: React 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: React 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: React 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2938,6 +6598,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 1`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -2964,6 +6634,11 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 1`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -2990,6 +6665,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 2`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3016,6 +6701,11 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 2`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3042,6 +6732,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 3`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3068,6 +6768,11 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 3`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3094,6 +6799,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 4`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3120,6 +6835,11 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 4`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3146,6 +6866,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 5`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3172,6 +6902,11 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 5`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3198,6 +6933,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 6`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3224,6 +6969,11 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 6`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3250,6 +7000,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 7`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3276,6 +7036,11 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 7`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3302,6 +7067,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 8`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3328,6 +7103,11 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 8`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3354,6 +7134,16 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 9`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3380,6 +7170,212 @@ exports[`ProjectTags should render correctly with given activeTag: Redux 9`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Redux 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Redux 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Redux 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3406,6 +7402,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 1`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3432,6 +7438,11 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 1`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3458,6 +7469,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 2`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3484,6 +7505,11 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 2`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3510,6 +7536,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 3`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3536,6 +7572,11 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 3`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3562,6 +7603,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 4`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3588,6 +7639,11 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 4`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3614,6 +7670,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 5`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3640,6 +7706,11 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 5`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3666,6 +7737,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 6`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3692,6 +7773,11 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 6`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3718,6 +7804,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 7`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3744,6 +7840,11 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 7`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3770,6 +7871,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 8`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3796,6 +7907,11 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 8`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3822,6 +7938,16 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 9`
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3848,6 +7974,1016 @@ exports[`ProjectTags should render correctly with given activeTag: Responsive 9`
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Responsive 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Responsive 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Responsive 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 1`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 2`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 3`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 4`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 5`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 6`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 7`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 8`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 9`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Social media 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3874,6 +9010,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 1`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3900,6 +9046,11 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 1`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3926,6 +9077,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 2`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -3952,6 +9113,11 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 2`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -3978,6 +9144,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 3`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4004,6 +9180,11 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 3`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4030,6 +9211,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 4`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4056,6 +9247,11 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 4`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4082,6 +9278,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 5`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4108,6 +9314,11 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 5`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4134,6 +9345,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 6`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4160,6 +9381,11 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 6`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4186,6 +9412,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 7`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4212,6 +9448,11 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 7`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4238,6 +9479,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 8`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4264,6 +9515,11 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 8`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4290,6 +9546,16 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 9`]
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4316,6 +9582,212 @@ exports[`ProjectTags should render correctly with given activeTag: Wordpress 9`]
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Wordpress 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Wordpress 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with given activeTag: Wordpress 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4342,6 +9814,16 @@ exports[`ProjectTags should render correctly with multiple tags 1`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4368,6 +9850,11 @@ exports[`ProjectTags should render correctly with multiple tags 1`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4394,6 +9881,16 @@ exports[`ProjectTags should render correctly with multiple tags 2`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4420,6 +9917,11 @@ exports[`ProjectTags should render correctly with multiple tags 2`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4446,6 +9948,16 @@ exports[`ProjectTags should render correctly with multiple tags 3`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4472,6 +9984,11 @@ exports[`ProjectTags should render correctly with multiple tags 3`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4498,6 +10015,16 @@ exports[`ProjectTags should render correctly with multiple tags 4`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4524,6 +10051,11 @@ exports[`ProjectTags should render correctly with multiple tags 4`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4550,6 +10082,16 @@ exports[`ProjectTags should render correctly with multiple tags 5`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4576,6 +10118,11 @@ exports[`ProjectTags should render correctly with multiple tags 5`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4602,6 +10149,16 @@ exports[`ProjectTags should render correctly with multiple tags 6`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4628,6 +10185,11 @@ exports[`ProjectTags should render correctly with multiple tags 6`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4654,6 +10216,16 @@ exports[`ProjectTags should render correctly with multiple tags 7`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4680,6 +10252,11 @@ exports[`ProjectTags should render correctly with multiple tags 7`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4706,6 +10283,16 @@ exports[`ProjectTags should render correctly with multiple tags 8`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4732,6 +10319,11 @@ exports[`ProjectTags should render correctly with multiple tags 8`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
@@ -4758,6 +10350,16 @@ exports[`ProjectTags should render correctly with multiple tags 9`] = `
   <li
     className="ProjectTags--listItem"
   >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
     Phonegap
   </li>
   <li
@@ -4784,6 +10386,212 @@ exports[`ProjectTags should render correctly with multiple tags 9`] = `
     className="ProjectTags--listItem"
   >
     Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 10`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 11`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
+  </li>
+</ul>
+`;
+
+exports[`ProjectTags should render correctly with multiple tags 12`] = `
+<ul
+  className="ProjectTags--list"
+>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Backbone
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    CSS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    JS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Neo4j
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    NodeJS
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Phonegap
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    PHP
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    React
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Redux
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Responsive
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Wordpress
+  </li>
+  <li
+    className="ProjectTags--listItem"
+  >
+    Social media
   </li>
 </ul>
 `;
