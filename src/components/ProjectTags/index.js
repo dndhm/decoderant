@@ -7,8 +7,19 @@ import colors, { MID_GREY } from '../../constants/colors';
 
 const styles = {
 	list: {
-		margin: '0 auto 10px',
+		margin: '10px auto',
 		'text-align': 'center',
+		'padding-top': '10px',
+		position: 'relative',
+		'&:after': {
+			'border-top': `1px solid ${colors[MID_GREY]}`,
+			content: '""',
+			'margin-left': '-10%',
+			position: 'absolute',
+			top: 0,
+			left: '50%',
+			width: '20%',
+		},
 	},
 	listItem: {
 		color: colors[MID_GREY],
@@ -29,7 +40,7 @@ const styles = {
 };
 
 const ProjectTags = ({
-	activeTag,
+	active,
 	classes,
 	tags,
 }) => (
@@ -38,7 +49,7 @@ const ProjectTags = ({
 			const classNames = classnames(
 				classes.listItem,
 				{
-					activeItem: tag === activeTag,
+					activeItem: tag === active,
 				}
 			);
 
@@ -58,16 +69,19 @@ export const tags = [
 	'Backbone',
 	'CSS',
 	'JS',
+	'Neo4j',
+	'NodeJS',
 	'Phonegap',
 	'PHP',
 	'React',
 	'Redux',
 	'Responsive',
 	'Wordpress',
+	'Social media',
 ];
 
 ProjectTags.propTypes = {
-	activeTag: propTypes.oneOf(tags),
+	active: propTypes.oneOf(tags),
 	classes: propTypes.object,
 	tags: propTypes.arrayOf(
 		propTypes.oneOf(tags)
