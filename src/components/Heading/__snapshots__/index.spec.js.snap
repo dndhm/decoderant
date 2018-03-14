@@ -1,24 +1,56 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Heading renders correctly for given level: 1 1`] = `
+exports[`Heading should render correctly for given color: black 1`] = `
 <h1
-  className="Heading--heading"
+  className="Heading--heading Heading--h1 Heading--color-black"
+>
+  &gt;Heading
+</h1>
+`;
+
+exports[`Heading should render correctly for given color: mid-grey 1`] = `
+<h1
+  className="Heading--heading Heading--h1 Heading--color-mid-grey"
+>
+  &gt;Heading
+</h1>
+`;
+
+exports[`Heading should render correctly for given color: project-slate 1`] = `
+<h1
+  className="Heading--heading Heading--h1 Heading--color-project-slate"
+>
+  &gt;Heading
+</h1>
+`;
+
+exports[`Heading should render correctly for given color: white 1`] = `
+<h1
+  className="Heading--heading Heading--h1 Heading--color-white"
+>
+  &gt;Heading
+</h1>
+`;
+
+exports[`Heading should render correctly for given level: 1 1`] = `
+<h1
+  className="Heading--heading Heading--h1 Heading--color-black"
 >
   Heading
 </h1>
 `;
 
-exports[`Heading renders correctly for given level: 2 1`] = `
+exports[`Heading should render correctly for given level: 2 1`] = `
 <h2
-  className="Heading--heading Heading--h2"
+  className="Heading--heading Heading--h2 Heading--color-black"
 >
   Heading
 </h2>
 `;
 
-exports[`Heading renders correctly for given level: 3 1`] = `
+exports[`Heading should render correctly for given level: 3 1`] = `
 <h3
-  className="Heading--heading"
+  className="Heading--heading Heading--h3 Heading--color-black"
 >
   Heading
 </h3>
